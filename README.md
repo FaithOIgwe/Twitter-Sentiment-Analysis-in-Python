@@ -1,5 +1,5 @@
 ##### Twitter-Sentiment-Analysis-in-Python
-Twitter is one of the best places to extract important data that can help and transfrom people and business. In this repository, I leverage the power of data mined from tweets of individuals and oragnizations, analyze them and make informed data-driven decisions.
+Twitter is one of the best places to extract important data that can help and transform people and business when analyzed according to parameters that benefit them and theri company. In this repository, I leverage the power of data mined from tweets of individuals and oragnizations, analyze them and make informed data-driven decisions.
 
 ### Projects done using Twitter's Data
 
