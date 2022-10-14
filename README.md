@@ -26,7 +26,7 @@ I used the Google Coloboratory as my IDE, I also applied for Twitter Developper 
 
 
 ## findings and insights
-This work has analyzed the written communication form used by Bill Gates on his Twitter posts in 2022. The first obvious result was Bill’s tendency to post his own tweets. He doesn’t tend to retweet other users’ tweets. He also likes to use URLs in his tweets.
+This project has analyzed the written communication form used by Bill Gates on his Twitter posts in 2022. The first obvious result was Bill’s tendency to post his own tweets. He doesn’t tend to retweet other users’ tweets. He also likes to use URLs in his tweets.
 
 In terms of the choice between small and big words, Bill tends to explain his thoughts in a simpler way by using small words more frequently than big words.
 
